@@ -21,7 +21,8 @@ bot.status({
 
 //botun prefixini girin (varsayılan)
 bot.variables({
-  prefix: "!"
+  prefix: "!",
+  am: "`"
 })
 
 bot.readyCommand({
