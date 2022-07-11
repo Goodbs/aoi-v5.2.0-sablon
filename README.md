@@ -28,3 +28,29 @@ module.exports = [{
   code: ``
 }]
 ```
+### Eval komutu (komut testi)
+   * Komutlar dosyasına girip "eval.js" adında bir dosya oluşturun
+   * İçine şunları yazın;
+   ```javascript
+  module.exports = {
+  name: "eval",
+  code: `
+$eval[$message]
+$onlyForIDs[idnizigirin;XD]
+$deletecommand
+
+
+
+  `
+  
+}
+```
+  * onlyforids yerine idnizi girin! sakın başka birinin idsini girmeyin yoksa botunuzu patlatırlar
+### Discord.js Biliyorsanız
+  * Aoi.jsye yeni geçtiyseniz discord.js biliyorsanız discord js komutlarını aoi.jsdede kullanabilirsiniz, `$djsEval[djs kodları]`
+# Kurulum (replit)
+  * https://replit.com/ sitesine girin
+  * Createye basın
+  * "Import from Github"a tıklayın
+  * Github URL yerine "https://github.com/Goodbs/aoi-v5.2.0-sablon/" yazın
+  * Yeniden Import from Githuba tıklayın
